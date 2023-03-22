@@ -10,7 +10,7 @@ bashCopy code
 
 `git clone https://github.com/overdose425/ImgStg.git`
 
-Once you have the repository cloned to your machine, you can add your own Git-Pigco images by simply dragging and dropping them into the `YY/MM/` folder. Be sure to follow any naming conventions or folder structures that you have established for yourself.
+Once you have the repository cloned to your machine, you can add your own Git-Pigco images by simply dragging and dropping them into the `YY/MM/DD/` folder. Be sure to follow any naming conventions or folder structures that you have established for yourself.
 
 ## Usage
 
